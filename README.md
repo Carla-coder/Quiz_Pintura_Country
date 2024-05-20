@@ -19,7 +19,7 @@ Este projeto é um quiz interativo de pintura country desenvolvido em JavaScript
 - Clone este repositório para a sua máquina local.
 
 ```
-git clone https://github.com/seu-usuario/quiz_pintura_country.git
+git clone https://github.com/seu-usuario/Quiz_Pintura_Country.git
 ```
 - Navegue até o diretório do projeto.
 
