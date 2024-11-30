@@ -41,7 +41,7 @@ cd quizpinturacountry
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/carla-coder)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
 ## Instituição de Ensino
 
